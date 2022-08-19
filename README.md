@@ -1,6 +1,7 @@
 Hi, I am Md Abid Hassan Mitul.
 
 I've completeted my graduation in Electronics & Telecommunication Enginering (ETE) from Rajshahi UNiversity of Engineering & Technology (RUET) in 2022.
+
 Previously I've done my research on 5G enabling technology like D2D, Massive MIMO, mmWave and green communication. My efforts to address real world 5G related efficiency issues were published in 3 IEEE conference papers. 
 
 Currently my research interests are AI, Machine Learning and Deep Learning especially in the fields related to Natural Language Processing (NLP), Data Mining, Time Series Prediction and Computer Vision. 
